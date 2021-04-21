@@ -22,7 +22,7 @@ Without bells and whistles, *VSE∞* outperforms previous VSE methods significan
 </div>>
 
 <div class="text-center">
-	<a href="."> Download PDF </a> &nbsp; &nbsp; <a href="https://arxiv.org/abs/2011.04305"> Arxiv </a> &nbsp; &nbsp; <a href="assets/vse_infty_supp.pdf"> Supplementary </a>
+	<a href="assets/vse_infty.pdf"> Download PDF </a> &nbsp; &nbsp; <a href="https://arxiv.org/abs/2011.04305"> Arxiv </a> &nbsp; &nbsp; <a href="assets/vse_infty_supp.pdf"> Supplementary </a>
 </div>
 
 <br>
@@ -41,4 +41,4 @@ Without bells and whistles, *VSE∞* outperforms previous VSE methods significan
 
 # Code / Pre-trained Models
 
-Our code and pre-trained models will soon be available on our [Github repo](https://github.com/woodfrog/vse_infty).
+Our code and pre-trained models are available on our [Github repo](https://github.com/woodfrog/vse_infty).
