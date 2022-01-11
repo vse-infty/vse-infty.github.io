@@ -22,7 +22,7 @@ Without bells and whistles, *VSE∞* outperforms previous VSE methods significan
 </div>>
 
 <div class="text-center">
-	<a href="assets/vse_infty.pdf"> Download PDF </a> &nbsp; &nbsp; <a href="https://arxiv.org/abs/2011.04305"> Arxiv </a> &nbsp; &nbsp; <a href="assets/vse_infty_supp.pdf"> Supplementary </a>
+	<a href="assets/vse_infty.pdf"> Download PDF </a> &nbsp; &nbsp; <a href="https://arxiv.org/abs/2011.04305"> Arxiv </a> &nbsp; &nbsp; <a href="assets/vse_infty_supp.pdf"> Supplementary </a> &nbsp; &nbsp; <a href="assets/vse-inf-poster.pdf"> Poster </a>
 </div>
 
 <br>
@@ -36,6 +36,14 @@ Without bells and whistles, *VSE∞* outperforms previous VSE methods significan
 	&nbsp;&nbsp;&nbsp;&nbsp; booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 	<br> 
 	&nbsp;&nbsp;&nbsp;&nbsp; year={2021}<br><strong>}</strong>
+</div>
+
+
+# Video
+
+<div>
+<iframe width="820" height="492" src="https://youtu.be/nlp6EC4D68I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </div>
 
 
