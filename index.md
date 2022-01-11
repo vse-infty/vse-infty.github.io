@@ -42,7 +42,7 @@ Without bells and whistles, *VSE∞* outperforms previous VSE methods significan
 # Video
 
 <div>
-<iframe width="820" height="492" src="https://youtu.be/nlp6EC4D68I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe width="820" height="492" src="https://www.youtube.com/watch?v=nlp6EC4D68I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
 
